@@ -92,7 +92,7 @@ header{
   height: 400px;                /* Parallax effect */
   grid-row: 2 / span 1;
   grid-column: 1 / -1;
-  background-color: #d3d3d3;
+  background-color:#000000;
   background-image: url('../images/header.jpg');
   /* Your code here */
   /* Set background-image to header.jpg in the images folder */
